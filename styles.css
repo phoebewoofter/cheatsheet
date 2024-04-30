@@ -1,0 +1,76 @@
+body {
+  font-family: Georgia, serif;
+  background-color: lavenderblush;
+}
+
+h1 {
+  text-align: center;
+  color: violet;
+}
+
+h2 {
+  text-align: center;
+  color: orangered;
+}
+
+h3 {
+  text-align: center;
+  color: violet;
+}
+
+table {
+  border: 3px solid orangered;
+}
+
+th {
+  text-align: center;
+  background-color: plum;
+}
+
+tbody {
+  background-color: thistle;
+}
+
+tfoot {
+  background-color: plum;
+}
+
+pre code {
+  background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  padding: 20px;
+}
+
+.code {
+  font-family: monospace;
+  background-color: plum;
+}
+
+.emphasize {
+  font-family: Georgia, serif;
+  font-weight: bold;
+  color: mediumorchid;
+}
+
+.contents {
+  font-family: monospace;
+  font-weight: bold;
+}
+
+.subcontents {
+  font-family: monospace;
+}
+
+a {
+  color: plum;
+}
+a:visited {
+  color: violet;
+}
+a:hover {
+  color: orangered;
+}
+a:active {
+  color: thistle;
+}
