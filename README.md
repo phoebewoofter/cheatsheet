@@ -1,3 +1,3 @@
 # My Cheat Sheet
 
-This is practice for the fundamentals of `HMTL` and `CSS`. It's also a guide to each language.
+Need a cheat sheet for the fundamentals of `HMTL` and `CSS`? Look no further. Examples included.
